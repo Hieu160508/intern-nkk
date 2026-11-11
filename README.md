@@ -1,1 +1,1 @@
-# intern-nkk
+# Intern NKKTech
